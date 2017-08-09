@@ -1,15 +1,14 @@
--# Food, Emotion and Sharing on Social Media
-  
- -__Principal Investigator__: HKUST HCI Initiative, Department of Computer Science and Engineering
- -
- -__Other Investigator__: EPFL Human-Computer Interaction Group
- -_______________________________________________________________________________
- -
- -###__Purpose of this Study__
- -
- -The purpose of the study is to investigate the relationship among the food we consume, our emotions and our use of social media. 
- -
- -###__Procedures__
+# Food, Emotion and Sharing on Social Media
+__Principal Investigator__: HKUST HCI Initiative, Department of Computer Science and Engineering
+
+__Other Investigator__: EPFL Human-Computer Interaction Group
+_______________________________________________________________________________
+
+###__Purpose of this Study__
+
+The purpose of the study is to investigate the relationship among the food we consume, our emotions and our use of social media. 
+
+###__Procedures__
  -
  -In this study, you will first be asked to complete a questionnaire (which takes about 5 minutes) about your personal information, diet habits and social media usage. 
  -
